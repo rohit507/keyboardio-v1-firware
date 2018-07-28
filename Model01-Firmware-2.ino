@@ -1,3 +1,7 @@
+#include <Kaleidoscope-DualUse.h>
+
+#include <Kaleidoscope-DualUse.h>
+
 // -*- mode: c++ -*-
 // Copyright 2016 Keyboardio, inc. <jesse@keyboard.io>
 // See "LICENSE" for license details
@@ -8,7 +12,7 @@
 
 
 /**
- * These #include directives pull in the Kaleidoscope firmware core,
+ * These #include directives pull in the Kaleidoscope firmware cored,
  * as well as the Kaleidoscope plugins we use in the Model 01's firmware
  */
 
@@ -71,6 +75,10 @@
 
 // Support for turning active modifier keys white  
 #include "Kaleidoscope-LED-ActiveModColor.h"
+
+// A
+// #include "Kaleidoscope-LED-ActiveModColor.h"
+
 
 /** This 'enum' is a list of all the macros used by the Model 01's firmware
   * The names aren't particularly important. What is important is that each
@@ -413,6 +421,7 @@ KALEIDOSCOPE_INIT_PLUGINS(
   // LEDControl provides support for other LED modes
   LEDControl,
 
+  solidGreen,
   // We start with the LED effect that turns off all the LEDs.
   LEDOff,
 
@@ -425,10 +434,16 @@ KALEIDOSCOPE_INIT_PLUGINS(
   LEDRainbowWaveEffect,
 
   // These static effects turn your keyboard's LEDs a variety of colors
-  solidRed, solidOrange, solidYellow, solidGreen, solidBlue, solidIndigo, solidViolet,
+  // solidRed, 
+  // solidOrange, 
+  // solidYellow, 
+  solidGreen, 
+  solidBlue, 
+  // solidIndigo,
+  solidViolet,
 
   // The breathe effect slowly pulses all of the LEDs on your keyboard
-  LEDBreatheEffect,
+  // LEDBreatheEffect,
 
   // The stalker effect lights up the keys you've pressed recently
   StalkerEffect,
