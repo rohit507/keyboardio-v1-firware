@@ -1,7 +1,3 @@
-#include <Kaleidoscope-DualUse.h>
-
-#include <Kaleidoscope-DualUse.h>
-
 // -*- mode: c++ -*-
 // Copyright 2016 Keyboardio, inc. <jesse@keyboard.io>
 // See "LICENSE" for license details
