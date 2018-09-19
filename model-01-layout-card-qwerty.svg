@@ -42,8 +42,8 @@
      id="namedview600"
      showgrid="false"
      inkscape:zoom="0.35355339"
-     inkscape:cx="5784.1335"
-     inkscape:cy="3401.8823"
+     inkscape:cx="5105.311"
+     inkscape:cy="2949.3339"
      inkscape:window-x="5759"
      inkscape:window-y="41"
      inkscape:window-maximized="0"
@@ -314,13 +314,6 @@
      x="7145.1792"
      style="font-size:125px;font-family:GothamBook, 'Gotham Book';fill:#0000ff">|</text>
   <text
-     id="text119"
-     transform="rotate(-16.08517)"
-     font-size="83.333"
-     y="3845.1292"
-     x="4120.8857"
-     style="font-size:83.33300018px;font-family:GothamBook, 'Gotham Book';fill:#0000ff">Menu</text>
-  <text
      id="text121"
      transform="rotate(12.947321)"
      font-size="108.333"
@@ -391,18 +384,11 @@
      x="6616.8052"
      style="font-size:108.33300018px;font-family:GothamBook, 'Gotham Book';fill:#0000ff">F10</text>
   <text
-     id="text141"
-     transform="rotate(-9.9983014)"
-     font-size="108.333"
-     y="2048.2964"
-     x="6964.7915"
-     style="font-size:74.66666412px;font-family:GothamBook, 'Gotham Book';fill:#0000ff">NumLk</text>
-  <text
      id="text143"
      transform="rotate(-11.168385)"
      font-size="108.333"
-     y="2715.2888"
-     x="7063.6758"
+     y="2193.6367"
+     x="6933.1416"
      style="font-size:108.33300018px;font-family:GothamBook, 'Gotham Book';fill:#0000ff">F11</text>
   <text
      id="text145"
@@ -584,188 +570,6 @@
      stroke-miterlimit="1.5"
      inkscape:connector-curvature="0"
      style="fill:none;stroke:#0000ff;stroke-width:8.32999992;stroke-linejoin:round;stroke-miterlimit:1.5" />
-  <g
-     id="Numlock-keys"
-     serif:id="Numlock keys">
-    <text
-       x="5776"
-       y="3619.18"
-       fill="red"
-       font-family="'GothamBook','Gotham Book'"
-       font-size="125"
-       transform="matrix(0.97437,-0.22495,0.22495,0.97437,0.0570749,11.5009)"
-       id="text373">
-            .
-        </text>
-    <text
-       x="6174.37"
-       y="3802.93"
-       fill="red"
-       font-family="'GothamBook','Gotham Book'"
-       font-size="125"
-       transform="matrix(0.97437,-0.22495,0.22495,0.97437,0.707676,7.21122)"
-       id="text375">
-            *
-        </text>
-    <text
-       x="6599.12"
-       y="3916.55"
-       fill="red"
-       font-family="'GothamBook','Gotham Book'"
-       font-size="100"
-       transform="matrix(0.97437,-0.22495,0.22495,0.97437,1.37967,6.10924)"
-       id="text377">
-            /
-        </text>
-    <text
-       x="6963.95"
-       y="3700.36"
-       fill="red"
-       font-family="'GothamBook','Gotham Book'"
-       font-size="66.667"
-       transform="matrix(0.979515,-0.201373,0.201373,0.979515,38.6733,7.39633)"
-       id="text379">
-            Enter
-        </text>
-    <text
-       x="6663.28"
-       y="3277.09"
-       fill="red"
-       font-family="'GothamBook','Gotham Book'"
-       font-size="100"
-       transform="matrix(0.980094,-0.198534,0.198534,0.980094,39.1338,11.2027)"
-       id="text381">
-            =
-        </text>
-    <text
-       x="6693.11"
-       y="2408.72"
-       fill="red"
-       font-family="'GothamBook','Gotham Book'"
-       font-size="125"
-       transform="matrix(0.982031,-0.188721,0.188721,0.982031,43.4778,9.02764)"
-       id="text383">
-            -
-        </text>
-    <text
-       x="6679.02"
-       y="2821.4"
-       fill="red"
-       font-family="'GothamBook','Gotham Book'"
-       font-size="100"
-       transform="matrix(0.982017,-0.188792,0.188792,0.982017,52.8196,6.78877)"
-       id="text385">
-            +
-        </text>
-    <text
-       x="5255.76"
-       y="2660.14"
-       fill="red"
-       font-family="'GothamBook','Gotham Book'"
-       font-size="100"
-       transform="matrix(0.963959,-0.266049,0.266049,0.963959,-71.3046,7.87551)"
-       id="text387">
-            7
-        </text>
-    <text
-       x="5700.12"
-       y="2556.47"
-       fill="red"
-       font-family="'GothamBook','Gotham Book'"
-       font-size="100"
-       transform="matrix(0.967145,-0.254224,0.254224,0.967145,-45.7225,7.36991)"
-       id="text389">
-            8
-        </text>
-    <text
-       x="6209.18"
-       y="2416.72"
-       fill="red"
-       font-family="'GothamBook','Gotham Book'"
-       font-size="100"
-       transform="matrix(0.975846,-0.21846,0.21846,0.975846,0.494166,7.86888)"
-       id="text391">
-            9
-        </text>
-    <text
-       x="5244.2"
-       y="3064.87"
-       fill="red"
-       font-family="'GothamBook','Gotham Book'"
-       font-size="100"
-       transform="matrix(0.963911,-0.266224,0.266224,0.963911,-68.4451,-3.94513)"
-       id="text393">
-            4
-        </text>
-    <text
-       x="5699.46"
-       y="2951.55"
-       fill="red"
-       font-family="'GothamBook','Gotham Book'"
-       font-size="100"
-       transform="matrix(0.967425,-0.253157,0.253157,0.967425,-45.4742,-0.583709)"
-       id="text395">
-            5
-        </text>
-    <text
-       x="6200.13"
-       y="2791.68"
-       fill="red"
-       font-family="'GothamBook','Gotham Book'"
-       font-size="100"
-       transform="matrix(0.976557,-0.215257,0.215257,0.976557,16.1397,4.53952)"
-       id="text397">
-            6
-        </text>
-    <text
-       x="5254.87"
-       y="3450.74"
-       fill="red"
-       font-family="'GothamBook','Gotham Book'"
-       font-size="100"
-       transform="matrix(0.96431,-0.264776,0.264776,0.96431,-62.7065,-4.24393)"
-       id="text399">
-            1
-        </text>
-    <text
-       x="5709.08"
-       y="3323.58"
-       fill="red"
-       font-family="'GothamBook','Gotham Book'"
-       font-size="100"
-       transform="matrix(0.968413,-0.249353,0.249353,0.968413,-42.354,0.0416075)"
-       id="text401">
-            2
-        </text>
-    <text
-       x="6201.04"
-       y="3189.48"
-       fill="red"
-       font-family="'GothamBook','Gotham Book'"
-       font-size="100"
-       transform="matrix(0.976315,-0.216355,0.216355,0.976315,15.0897,9.01072)"
-       id="text403">
-            3
-        </text>
-    <text
-       x="5232.29"
-       y="3881.64"
-       fill="red"
-       font-family="'GothamBook','Gotham Book'"
-       font-size="100"
-       transform="matrix(0.964063,-0.265673,0.265673,0.964063,-61.2854,-15.0589)"
-       id="text405">
-            0
-        </text>
-    <path
-       fill="#fff"
-       stroke="red"
-       stroke-linejoin="round"
-       stroke-miterlimit="1.5"
-       stroke-width="6.25"
-       d="M6044.38 2265.09l-9.869 57.11"
-       id="path407" />
-  </g>
   <clipPath
      id="_clip10">
     <path
@@ -1486,16 +1290,6 @@
      id="text591">
         Function
     </text>
-  <text
-     x="960.118"
-     y="4487.73"
-     fill="red"
-     font-family="'GothamBold','Gotham Bold'"
-     font-size="106"
-     font-weight="700"
-     id="text593">
-        NumLock
-    </text>
   <defs
      id="defs596">
     <image
@@ -1506,16 +1300,16 @@
   </defs>
   <text
      id="text159-9"
-     transform="rotate(-26.939849)"
+     transform="rotate(-46.860087)"
      font-size="83.334"
-     y="5063.4731"
-     x="3810.0869"
+     y="5978.5425"
+     x="1080.1661"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:83.33333588px;font-family:GothamBook, 'Gotham Book';-inkscape-font-specification:'GothamBook, Gotham Book, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#0000ff">
     <tspan
        sodipodi:role="line"
        id="tspan5553"
-       x="3810.0869"
-       y="5063.4731">Esc</tspan>
+       x="1080.1661"
+       y="5978.5425">Esc</tspan>
   </text>
   <text
      style="font-size:106.66666667px;font-family:GothamBook, 'Gotham Book';"
@@ -1598,8 +1392,8 @@
      id="text141-3"
      transform="rotate(-9.9983014)"
      font-size="108.333"
-     y="2951.0078"
-     x="7130.9478"
+     y="2562.5315"
+     x="7110.4014"
      style="font-size:108.33300018px;font-family:GothamBook, 'Gotham Book';fill:#0000ff">F12</text>
   <text
      id="text155-7"
