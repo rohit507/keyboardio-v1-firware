@@ -42,8 +42,8 @@
      id="namedview600"
      showgrid="false"
      inkscape:zoom="0.35355339"
-     inkscape:cx="5331.5851"
-     inkscape:cy="3062.471"
+     inkscape:cx="5784.1335"
+     inkscape:cy="3401.8823"
      inkscape:window-x="5759"
      inkscape:window-y="41"
      inkscape:window-maximized="0"
@@ -450,15 +450,15 @@
      id="text157"
      transform="rotate(38.9053)"
      font-size="83.333"
-     y="391.81985"
-     x="4168.4932"
+     y="369.73187"
+     x="4168.8403"
      style="font-size:83.33300018px;font-family:GothamBook, 'Gotham Book';fill:#0000ff">Enter</text>
   <text
      id="text159"
      transform="rotate(-39.044669)"
      font-size="83.334"
-     y="5767.8164"
-     x="2238.0115"
+     y="5739.9673"
+     x="2235.1062"
      style="font-size:83.33399963px;font-family:GothamBook, 'Gotham Book';fill:#0000ff">Enter</text>
   <text
      id="text161"
@@ -821,42 +821,42 @@
         Fn
     </text>
   <text
-     x="-152.103"
-     y="1483.21"
-     font-family="'GothamBook','Gotham Book'"
+     x="-618.1474"
+     y="6277.6074"
      font-size="20"
-     transform="matrix(2.13866,-3.57593,3.57593,2.13866,57.8024,33.8454)"
+     transform="rotate(-59.11758)"
      id="text427"
-     style="-inkscape-font-specification:'GothamBook, Gotham Book, Normal';font-family:GothamBook, 'Gotham Book';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:19.99998223px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:83.33333588px;font-family:GothamBook, 'Gotham Book';-inkscape-font-specification:'GothamBook, Gotham Book, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:4.16667032">
     <tspan
        sodipodi:role="line"
-       id="tspan5124">Alt</tspan>
+       id="tspan5124"
+       x="-618.1474"
+       y="6277.6074"
+       style="stroke-width:4.16667032">Alt</tspan>
   </text>
   <text
-     x="894.112"
-     y="6213.5601"
+     x="787.99402"
+     y="6265.5742"
      font-size="83.333"
-     transform="rotate(-49.314466,31.784855,72.455569)"
+     transform="rotate(-49.314466)"
      id="text433"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:83.33333588px;font-family:GothamBook, 'Gotham Book';-inkscape-font-specification:'GothamBook, Gotham Book, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">
     <tspan
        sodipodi:role="line"
        id="tspan5126"
-       x="894.112"
-       y="6213.5601">Shift</tspan>
+       x="787.99402"
+       y="6265.5742">Shift</tspan>
   </text>
   <text
-     x="2349.84"
-     y="5840.44"
-     font-family="'GothamBook','Gotham Book'"
+     x="2330.4712"
+     y="5942.6978"
      font-size="83.334"
-     transform="matrix(0.783734,-0.621097,0.621097,0.783734,22.8748,52.574)"
-     id="text435">
-        Spc
-    </text>
+     transform="rotate(-38.396277)"
+     id="text435"
+     style="font-size:83.33399963px;font-family:GothamBook, 'Gotham Book'">Spc</text>
   <text
-     x="3753.3167"
-     y="5297.1724"
+     x="3772.7014"
+     y="5351.8735"
      font-size="83.333"
      transform="rotate(-27.461601)"
      id="text437"
@@ -864,8 +864,8 @@
     <tspan
        sodipodi:role="line"
        id="tspan5128"
-       x="3753.3167"
-       y="5297.1724">Ctrl</tspan>
+       x="3772.7014"
+       y="5351.8735">Ctrl</tspan>
   </text>
   <text
      x="2539.94"
@@ -1145,8 +1145,8 @@
         P
     </text>
   <text
-     x="3655.4666"
-     y="1286.2509"
+     x="3644.6216"
+     y="1337.2644"
      font-size="83.334"
      transform="rotate(28.599417)"
      id="text503"
@@ -1154,21 +1154,19 @@
     <tspan
        sodipodi:role="line"
        id="tspan5112"
-       x="3655.4666"
-       y="1286.2509">Shift</tspan>
+       x="3644.6216"
+       y="1337.2644">Shift</tspan>
   </text>
   <text
-     x="4043.3"
-     y="556.529"
-     font-family="'GothamBook','Gotham Book'"
+     x="4162.8989"
+     y="630.64771"
      font-size="83.333"
-     transform="matrix(0.783198,0.621772,-0.621772,0.783198,73.5845,106.413)"
-     id="text505">
-        BkSp
-    </text>
+     transform="rotate(38.445662)"
+     id="text505"
+     style="font-size:83.33300018px;font-family:GothamBook, 'Gotham Book'">BkSp</text>
   <text
-     x="4579.3521"
-     y="-259.41513"
+     x="4582.188"
+     y="-223.52699"
      font-size="83.333"
      transform="rotate(49.518007)"
      id="text507"
@@ -1176,19 +1174,22 @@
     <tspan
        sodipodi:role="line"
        id="tspan5114"
-       x="4579.3521"
-       y="-259.41513">Ctrl</tspan>
+       x="4582.188"
+       y="-223.52699">Ctrl</tspan>
   </text>
   <text
-     x="1151.98"
-     y="-272.58801"
+     x="4806.8784"
+     y="-1107.8029"
      font-size="20"
-     transform="matrix(2.07903,3.61092,-3.61092,2.07903,15.995,-11.1177)"
+     transform="rotate(60.068304)"
      id="text509"
-     style="font-size:20.00000122px;font-family:GothamBook, 'Gotham Book';-inkscape-font-specification:'GothamBook, Gotham Book, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:83.33333588px;font-family:GothamBook, 'Gotham Book';-inkscape-font-specification:'GothamBook, Gotham Book, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:4.16666651">
     <tspan
        sodipodi:role="line"
-       id="tspan5122">Cmd</tspan>
+       id="tspan5122"
+       x="4806.8784"
+       y="-1107.8029"
+       style="stroke-width:4.16666651">Cmd</tspan>
   </text>
   <text
      x="919.91"
@@ -1507,14 +1508,14 @@
      id="text159-9"
      transform="rotate(-26.939849)"
      font-size="83.334"
-     y="5094.9297"
-     x="3784.5823"
+     y="5063.4731"
+     x="3810.0869"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:83.33333588px;font-family:GothamBook, 'Gotham Book';-inkscape-font-specification:'GothamBook, Gotham Book, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#0000ff">
     <tspan
        sodipodi:role="line"
        id="tspan5553"
-       x="3784.5823"
-       y="5094.9297">Esc</tspan>
+       x="3810.0869"
+       y="5063.4731">Esc</tspan>
   </text>
   <text
      style="font-size:106.66666667px;font-family:GothamBook, 'Gotham Book';"
@@ -1588,10 +1589,10 @@
      id="text477-2">)</text>
   <text
      id="text157-7"
-     transform="rotate(51.696323)"
+     transform="rotate(48.202946)"
      font-size="83.333"
-     y="-616.62207"
-     x="4572.7988"
+     y="-359.85193"
+     x="4589.7725"
      style="font-size:83.33300018px;font-family:GothamBook, 'Gotham Book';fill:#0000ff">Esc</text>
   <text
      id="text141-3"
@@ -1622,39 +1623,39 @@
      x="3790.0996"
      style="font-size:83.33399963px;font-family:GothamBook, 'Gotham Book';fill:#0000ff">Space</text>
   <circle
-     style="fill:#808080;stroke-width:0.625"
-     id="path473"
-     cx="1419.8704"
-     cy="1789.9808"
-     r="14.142136" />
-  <circle
-     style="fill:#808080;stroke-width:0.625"
-     id="path473-6"
-     cx="2726.6038"
-     cy="1849.3778"
-     r="14.142136" />
-  <circle
-     style="fill:#808080;stroke-width:0.625"
-     id="path473-2"
-     cx="3040.5591"
-     cy="3023.175"
-     r="14.142136" />
-  <circle
-     style="fill:#808080;stroke-width:0.625"
+     style="fill:#b3b3b3;stroke-width:0.44194174"
      id="path473-9"
-     cx="5481.4917"
-     cy="3034.4888"
-     r="14.142136" />
+     cx="5491.835"
+     cy="3035.8027"
+     r="10" />
   <circle
-     style="fill:#808080;stroke-width:0.625"
-     id="path473-1"
-     cx="5806.7607"
-     cy="1840.8925"
-     r="14.142136" />
+     style="fill:#b3b3b3;stroke-width:0.44194174"
+     id="path473-9-0"
+     cx="7141.7783"
+     cy="1795.6377"
+     r="10" />
   <circle
-     style="fill:#808080;stroke-width:0.625"
-     id="path473-27"
-     cx="7124.8081"
-     cy="1801.2946"
-     r="14.142136" />
+     style="fill:#b3b3b3;stroke-width:0.44194174"
+     id="path473-9-9"
+     cx="5809.5894"
+     cy="1838.0641"
+     r="10" />
+  <circle
+     style="fill:#b3b3b3;stroke-width:0.44194174"
+     id="path473-9-3"
+     cx="3051.8728"
+     cy="3031.6604"
+     r="10" />
+  <circle
+     style="fill:#b3b3b3;stroke-width:0.44194174"
+     id="path473-9-6"
+     cx="1400.0714"
+     cy="1804.1229"
+     r="10" />
+  <circle
+     style="fill:#b3b3b3;stroke-width:0.44194174"
+     id="path473-9-06"
+     cx="2726.6038"
+     cy="1832.4072"
+     r="10" />
 </svg>
