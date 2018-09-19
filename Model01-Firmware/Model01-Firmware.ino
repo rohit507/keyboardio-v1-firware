@@ -19,6 +19,13 @@
 // Support for macros
 #include "Kaleidoscope-Macros.h"
 
+// Additional Keyboard Macros
+#define Key_ExclamationPoint LSHIFT(Key_1)
+#define Key_AtSymbol         LSHIFT(Key_2)
+#define Key_DollarSign       LSHIFT(Key_4)
+#define Key_Ampersand        LSHIFT(Key_7)
+#define Key_Asterisk         LSHIFT(Key_8)
+
 // Support for controlling the keyboard's LEDs
 #include "Kaleidoscope-LEDControl.h"
 
@@ -133,7 +140,7 @@ KEYMAPS(
   (Key_Escape,   Key_1, Key_2, Key_3, Key_4, Key_5, Key_Delete,
    Key_Backtick, Key_Q, Key_W, Key_E, Key_R, Key_T, Key_Tab,
    Key_PageUp,   Key_A, Key_S, Key_D, Key_F, Key_G,
-   Key_PageDown, Key_Z, Key_X, Key_C, Key_V, Key_B, Key_Escape,
+   Key_PageDown, Key_Z, Key_X, Key_C, Key_V, Key_B, Key_Spacebar,
 
    
    Key_LeftShift, Key_Backspace, Key_LeftControl, Key_LeftGui, 
@@ -142,7 +149,7 @@ KEYMAPS(
    M(MACRO_ANY),  Key_6, Key_7, Key_8,     Key_9,         Key_0,         Key_Backspace,
    Key_Enter,     Key_Y, Key_U, Key_I,     Key_O,         Key_P,         Key_Equals,
                   Key_H, Key_J, Key_K,     Key_L,         Key_Semicolon, Key_Quote,
-   ___,  Key_N, Key_M, Key_Comma, Key_Period,    Key_Slash,     Key_Minus,
+   ___,           Key_N, Key_M, Key_Comma, Key_Period,    Key_Slash,     Key_Minus,
 
    
    Key_LeftAlt, Key_RightShift, Key_Spacebar, Key_RightControl,
@@ -150,9 +157,9 @@ KEYMAPS(
 
   [FUNCTION] =  KEYMAP_STACKED
   (___,      Key_F1,           Key_F2,      Key_F3,     Key_F4,        Key_F5, Key_LEDEffectNext,
-   Key_Tab,  ___,              ___,         ___,        ___,           ___,    ___,
-   Key_Home, ___,              ___,         ___,        ___,           ___,
-   Key_End,  Key_PrintScreen,  Key_Insert,  ___,        ___,           ___,    Key_Spacebar,
+   Key_Tab,  Key_1,            Key_2,       Key_3,      Key_4,         Key_5,   ___,
+   Key_Home, Key_6,            Key_7,       Key_8,      Key_9,         Key_0,
+   Key_End,  Key_PrintScreen,  Key_Insert,  ___,        ___,           ___,    Key_Escape,
 
    
    ___,  Key_Enter,     Key_Escape,  ___,
@@ -160,9 +167,9 @@ KEYMAPS(
 
 
    ___, Key_F6,                 Key_F7,                   Key_F8,                   Key_F9,          Key_F10,          Key_F11,
-   ___, ___,    Key_LeftCurlyBracket,     Key_RightCurlyBracket,    Key_LeftBracket, Key_RightBracket, Key_F12,
-        Key_LeftArrow,          Key_DownArrow,            Key_UpArrow,              Key_RightArrow,  ___,              ___,
-   ___,          Consumer_Mute,          Consumer_VolumeDecrement, Consumer_VolumeIncrement, ___,             Key_Backslash,    Key_Pipe,
+   ___, Key_AtSymbol,           Key_LeftCurlyBracket,     Key_RightCurlyBracket,    Key_LeftBracket, Key_RightBracket, Key_F12,
+        Key_LeftArrow,          Key_DownArrow,            Key_UpArrow,              Key_RightArrow,  Key_DollarSign,   Key_Asterisk,
+   ___, ___,                    ___,                      Key_LeftParen,            Key_RightParen,  Key_Backslash,    Key_Pipe,
    
    ___, Key_Esc, Key_Enter, ___,
    ___)
