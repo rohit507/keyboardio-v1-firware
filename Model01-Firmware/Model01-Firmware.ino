@@ -25,6 +25,7 @@
 #define Key_DollarSign       LSHIFT(Key_4)
 #define Key_Ampersand        LSHIFT(Key_7)
 #define Key_Asterisk         LSHIFT(Key_8)
+#define Key_Tilde            LSHIFT(Key_Backtick)
 
 // Support for controlling the keyboard's LEDs
 #include "Kaleidoscope-LEDControl.h"
@@ -159,10 +160,10 @@ KEYMAPS(
   (___,      Key_F1,           Key_F2,      Key_F3,     Key_F4,        Key_F5, Key_LEDEffectNext,
    Key_Tab,  Key_1,            Key_2,       Key_3,      Key_4,         Key_5,   ___,
    Key_Home, Key_6,            Key_7,       Key_8,      Key_9,         Key_0,
-   Key_End,  Key_PrintScreen,  Key_Insert,  ___,        ___,           ___,    Key_Escape,
+   Key_End,  Key_PrintScreen,  Key_Insert,  Key_Tilde,  ___,           ___,    Key_Escape,
 
    
-   ___,  Key_Enter,     Key_Escape,  ___,
+   Key_Tab,  Key_Enter,     Key_Escape,  ___,
    ___,
 
 
@@ -171,7 +172,7 @@ KEYMAPS(
         Key_LeftArrow,          Key_DownArrow,            Key_UpArrow,              Key_RightArrow,  Key_DollarSign,   Key_Asterisk,
    ___, ___,                    ___,                      Key_LeftParen,            Key_RightParen,  Key_Backslash,    Key_Pipe,
    
-   ___, Key_Esc, Key_Enter, ___,
+   ___, Key_Esc, Key_Enter, Key_Tab,
    ___)
 	)
 
